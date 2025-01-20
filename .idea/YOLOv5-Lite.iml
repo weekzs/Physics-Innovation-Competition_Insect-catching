@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/YOLOv5-Lite/YOLOv5-Lite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/YOLOv5-Lite/YOLOv5-Lite/models" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/YOLOv5-Lite/YOLOv5-Lite/python_demo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/YOLOv5-Lite/YOLOv5-Lite/scripts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/YOLOv5-Lite/YOLOv5-Lite/utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/YOLOv5-Lite/YOLOv5-Lite/utils/aws" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/YOLOv5-Lite/YOLOv5-Lite/utils/google_app_engine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/YOLOv5-Lite/YOLOv5-Lite/utils/wandb_logging" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/YOLOv5-Lite/YOLOv5-Lite/weights" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/YOLOv5-Lite/YOLOv5-Lite/models/hub" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+    <option name="renderExternalDocumentation" value="true" />
+  </component>
+</module>
